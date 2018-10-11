@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682559618069",
+    "firebase_url": "https://musiac-d420d.firebaseio.com",
+    "project_id": "musiac-d420d",
+    "storage_bucket": "musiac-d420d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682559618069:android:cb3f475f845e8c40",
+        "android_client_info": {
+          "package_name": "rahulmishra.app.musiac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682559618069-rvc39danr49qisgihe10de720ab641lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rahulmishra.app.musiac",
+            "certificate_hash": "7159e0d52136450ffb580cdedc8ebb71c2dcd156"
+          }
+        },
+        {
+          "client_id": "682559618069-j4v8m3gndiejlndgmtijo40p34r9oobu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28gS4uqi5nebTz0HsrK2ma2lnRH8iUH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682559618069-j4v8m3gndiejlndgmtijo40p34r9oobu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
